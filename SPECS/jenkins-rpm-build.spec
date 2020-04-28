@@ -10,8 +10,8 @@ Version:   %{version}
 Release:   %{release}
 BuildArch: noarch
 BuildRoot: %{buildroot}
-Source:    https://github.com/spohnan/jenkins-rpm-build
-URL:       https://github.com/spohnan/jenkins-rpm-build
+Source:    https://github.com/prakashkumardas/jenkins-rpm-build.git
+URL:       https://github.com/prakashkumardas/jenkins-rpm-build.git
 License:   MIT
 requires:  rpm-build, rpmlint, rpmdevtools, make, gcc, gcc-c++
 
